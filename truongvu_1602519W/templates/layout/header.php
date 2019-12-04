@@ -1,0 +1,1 @@
+<div id="mainmenu"><?php include _template."layout/menu.php"; ?></div>
